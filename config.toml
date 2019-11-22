@@ -1,0 +1,23 @@
+baseURL = "https://qlearn.dev"
+languageCode = "en-US"
+#defaultContentLanguage = "en"
+
+title = "量子计算学习"
+theme = "hugo-theme-learn"
+#themesdir = "themes"
+metaDataFormat = "yaml"
+#defaultContentLanguageInSubdir= true
+
+copyright = "Created And Maintanced by Cheng Chen"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  description = "Documentation for Quantum Learning Website"
+  author = "成臣"
+  custom_css = ['css/custom.css']
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
