@@ -21,4 +21,26 @@ home = [ "HTML", "RSS", "JSON"]
 #  disableNextPrev = false
 
 [params]
-  editURL = "https://github.com/it2911/qlearn.dev"
+# Description of the site, will be used in meta information
+description = "Documentation for Quantum Learning Website"
+# Author of the site, will be used in meta information
+author = "Cheng Chen"
+# Shows a checkmark for visited pages on the menu
+showVisitedLinks = false
+
+[Languages]
+[Languages.zh]
+title = "量子学习文档"
+weight = 1
+languageName = "中文"
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
