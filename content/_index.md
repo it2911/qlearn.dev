@@ -1,7 +1,6 @@
 ---
 title: "量子计算学习"
 date: 2019-11-20T09:25:33+09:00
-weight: 30
 chapter: true
 ---
 
