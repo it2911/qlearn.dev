@@ -35,12 +35,12 @@ showVisitedLinks = false
 #languageName = "中文"
 
 [[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/it2911/qlearn.dev"
+weight = 10
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
 url = "/tags"
 weight = 30
-
-[[menu.shortcuts]]
-name = "<i class='fab fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
-weight = 10
