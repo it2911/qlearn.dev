@@ -28,11 +28,11 @@ author = "Cheng Chen"
 # Shows a checkmark for visited pages on the menu
 showVisitedLinks = false
 
-[Languages]
-[Languages.zh]
-title = "量子学习文档"
-weight = 1
-languageName = "中文"
+#[Languages]
+#[Languages.zh]
+#title = "量子学习文档"
+#weight = 1
+#languageName = "中文"
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
