@@ -19,3 +19,6 @@ home = [ "HTML", "RSS", "JSON"]
 #  showVisitedLinks = true
 #  disableBreadcrumb = false
 #  disableNextPrev = false
+
+[params]
+  editURL = "https://github.com/it2911/qlearn.dev"
