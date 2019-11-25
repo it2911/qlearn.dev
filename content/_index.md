@@ -31,7 +31,8 @@ date: 2019-11-20T09:25:33+09:00
 &emsp;&emsp;如果网站中存在问题，大家可以通过Github的Repo提出[Issue](https://github.com/it2911/qlearn.dev/issues)。
 
 &emsp;&emsp;也可以通过以下方式联系到我
+
 + 邮件: cc8602@gmail.com
 + wechat: it2911
 
-&emsp;&emsp;希望大家能够掌握量子计算技术，并且得到成长。
+&emsp;&emsp;希望大家能够掌握量子计算技术，并且得到成长。也希望大家多多点[star]支持我，谢谢。
